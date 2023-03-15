@@ -1,19 +1,19 @@
  #  Gustavo
  
- # Dados pessoais
+ ## Dados pessoais
 
- CPF: XXX.XXX.XXX-XX
- RG: XX.XXX.XXX-XX
- EMAIL: DADOS@gmail.com
+ - CPF: XXX.XXX.XXX-XX
+ - RG: XX.XXX.XXX-XX
+ - EMAIL: DADOS@gmail.com
 
 
- CPF: 
- RG: 
- EMAIL: 
+ - cPF: 
+ - RG: 
+ - EMAIL: 
 
- CPF: 
- RG: 
- EMAIL: 
+ - CPF: 
+ - RG: 
+ - EMAIL: 
 
 
 Experiencia
