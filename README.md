@@ -12,6 +12,6 @@
  RG: 
  EMAIL: 
 
-CPF: 
+ CPF: 
  RG: 
  EMAIL: 
