@@ -1,28 +1,19 @@
  #  Gustavo
  
- # Dados pessoais
+ ## Dados pessoais
 
- CPF: XXX.XXX.XXX-XX
- RG: XX.XXX.XXX-XX
- EMAIL: DADOS@gmail.com
-
-
- CPF: 
- RG: 
- EMAIL: 
-
- CPF: 
- RG: 
- EMAIL: 
+ - CPF: XXX.XXX.XXX-XX
+ - RG: XX.XXX.XXX-XX
+ - EMAIL: DADOS@gmail.com
 
 
-Experiencia
- Prof unimar
- Aquaponia
- 
-TESTE 
+ - cPF: 
+ - RG: 
+ - EMAIL: 
 
-TESTE 
+ - CPF: 
+ - RG: 
+ - EMAIL: 
 
-TESTE
+
 
